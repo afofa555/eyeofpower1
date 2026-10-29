@@ -1,0 +1,19 @@
+{
+  "item.eyeofpower.eye_of_power": "Глаз Силы",
+  "itemGroup.eyeofpower": "Глаз Силы afofa555",
+  "key.eyeofpower.open_menu": "Меню сил Глаза",
+  "key.categories.eyeofpower": "Глаз Силы afofa555",
+  "screen.eyeofpower.title": "✦ Силы Глаза ✦",
+  "screen.eyeofpower.hint": "1 / 2 - выбрать, H или Esc - закрыть",
+  "power.eyeofpower.time_stop": "[1] Остановка времени",
+  "power.eyeofpower.black_hole": "[2] Чёрная дыра",
+  "power.eyeofpower.on": "§a[ВКЛ]",
+  "power.eyeofpower.off": "§7[ВЫКЛ]",
+  "message.eyeofpower.not_wearing": "Наденьте Глаз Силы на голову!",
+  "message.eyeofpower.time_other": "Время уже остановлено другим владельцем Глаза!",
+  "message.eyeofpower.time_active": "✦ Время остановлено ✦",
+  "overlay.eyeofpower.time_stopped": "ВРЕМЯ ОСТАНОВЛЕНО",
+  "tooltip.eyeofpower.line1": "Наденьте на голову и нажмите H",
+  "tooltip.eyeofpower.line2": "Остановка времени для всех, кроме вас",
+  "tooltip.eyeofpower.line3": "Чёрная дыра, уносящая в бездну"
+}

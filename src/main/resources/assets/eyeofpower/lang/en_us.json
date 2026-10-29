@@ -1,0 +1,19 @@
+{
+  "item.eyeofpower.eye_of_power": "Eye of Power",
+  "itemGroup.eyeofpower": "Eye of Power afofa555",
+  "key.eyeofpower.open_menu": "Eye powers menu",
+  "key.categories.eyeofpower": "Eye of Power afofa555",
+  "screen.eyeofpower.title": "✦ Eye Powers ✦",
+  "screen.eyeofpower.hint": "1 / 2 - choose, H or Esc - close",
+  "power.eyeofpower.time_stop": "[1] Time Stop",
+  "power.eyeofpower.black_hole": "[2] Black Hole",
+  "power.eyeofpower.on": "§a[ON]",
+  "power.eyeofpower.off": "§7[OFF]",
+  "message.eyeofpower.not_wearing": "Wear the Eye of Power on your head!",
+  "message.eyeofpower.time_other": "Time is already stopped by another Eye owner!",
+  "message.eyeofpower.time_active": "✦ Time is stopped ✦",
+  "overlay.eyeofpower.time_stopped": "TIME IS STOPPED",
+  "tooltip.eyeofpower.line1": "Wear on your head and press H",
+  "tooltip.eyeofpower.line2": "Stops time for everyone but you",
+  "tooltip.eyeofpower.line3": "A black hole that sends foes to the abyss"
+}

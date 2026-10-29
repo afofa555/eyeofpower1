@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "SNS",
+    "GKG",
+    "NSN"
+  ],
+  "key": {
+    "S": { "item": "minecraft:soul_sand" },
+    "N": { "item": "minecraft:netherite_ingot" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "K": { "item": "minecraft:skeleton_skull" }
+  },
+  "result": {
+    "id": "eyeofpower:eye_of_power",
+    "count": 1
+  }
+}

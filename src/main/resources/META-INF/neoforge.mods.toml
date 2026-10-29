@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "eyeofpower"
+version = "1.0.0"
+displayName = "Eye of Power - afofa555"
+authors = "afofa555"
+description = '''
+Глаз Силы afofa555: остановка времени и чёрная дыра.
+'''
+
+[[dependencies.eyeofpower]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.eyeofpower]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
